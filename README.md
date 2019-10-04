@@ -14,3 +14,7 @@ Figures and figure components
 <i>Scripts</i>
 
 Log of bash and R scripts used to run pipeline
+
+<i>fixed_SNPs</i>
+
+Tables of Fst values by site for each taxon
